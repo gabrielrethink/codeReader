@@ -1,0 +1,15 @@
+{
+  "name": "qrcodereader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "jsqr": "node src/jsqr.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jpeg-js": "^0.4.4",
+    "jsqr": "^1.4.0"
+  }
+}
